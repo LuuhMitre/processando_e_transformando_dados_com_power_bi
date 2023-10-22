@@ -24,4 +24,4 @@ A base de dados foi alimentada utilizando o Workbanch, em sequencia o Power BI f
 ![Alt text](image.png)
 
 ## ✏️ Observações: 
-A utilização da função "Mesclar" possibilida a união de dados com base em colunas-chave compartilhadas, o que possibilita trabalhar com tabelas distintas e com estruturas diferentes. Enquanto isso, a função "Atribuir" adiciona linhas de um conjunto ao final de outro, o que é útil quando os conjuntos têm a mesma estrutura. 
+A utilização da função "Mesclar" possibilida a união de dados com base em colunas-chave compartilhadas, o que possibilita trabalhar com conjuntos distintos e com estruturas diferentes. Enquanto isso, a função "Atribuir" adiciona linhas de um conjunto ao final de outro, o que é útil quando os conjuntos têm a mesma estrutura. 
