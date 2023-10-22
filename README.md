@@ -19,7 +19,7 @@ A base de dados foi alimentada utilizando o Workbanch, em sequencia o Power BI f
 - Foi criado a tabela ***manager***, após mesclar as tabelas ***employee_dept*** e ***azure_company departament***. Para a criação da nova tabela, o processo de mescla utilizou a tabela employee_dept como base. Nesta etapa também foram excluídas as colunas desnecessárias;
 - Foi criado a nova tabela ***dept_locations***, onde foi feito a mescla do nome do departamento e localização do mesmo, tornando assim cada combinação departamento-local uma combinação única;
 - Foi realizado uma ultima analise das tabelas e colunas, onde foram excluídos as colunas desnecessárias que permaneciam na base de dados;
-- Após a tratativa da base de dados, foi gerado o relatório ***COMPANY REPORT***
+- Após a tratativa da base de dados, foi gerado o relatório ***COMPANY REPORT***:
 
 ![Alt text](image.png)
 
